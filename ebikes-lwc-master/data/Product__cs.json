@@ -9,8 +9,6 @@
             "Product_Family__c": "@FuseRef",
             "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "MSRP__c": 2500,
-            "Level__c": "Beginner",
-            "Category__c": "Commuter",
             "Material__c": "Aluminum",
             "Picture_URL__c": "/resource/1563540396000/ProductImages/blacksedan.png"
         },
@@ -23,8 +21,6 @@
             "Product_Family__c": "@FuseRef",
             "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "MSRP__c": 2600,
-            "Level__c": "Beginner",
-            "Category__c": "Commuter",
             "Material__c": "Aluminum",
             "Picture_URL__c": "/resource/1563540396000/ProductImages/bluehatchback.png"
         },
@@ -37,8 +33,6 @@
             "Product_Family__c": "@FuseRef",
             "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "MSRP__c": 2700,
-            "Level__c": "Beginner",
-            "Category__c": "Commuter",
             "Material__c": "Aluminum",
             "Picture_URL__c": "/resource/1563540396000/ProductImages/bluesedan.png"
         },
@@ -51,8 +45,6 @@
             "Product_Family__c": "@FuseRef",
             "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "MSRP__c": 2800,
-            "Level__c": "Beginner",
-            "Category__c": "Commuter",
             "Material__c": "Aluminum",
             "Picture_URL__c": "/resource/1563540396000/ProductImages/bluesuv.png"
         },
@@ -65,8 +57,7 @@
             "Product_Family__c": "@DynamoRef",
             "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "MSRP__c": 7000,
-            "Level__c": "Racer",
-            "Category__c": "Mountain",
+        
             "Material__c": "Carbon",
             "Picture_URL__c": "/resource/1563540396000/ProductImages/greenhatchback.png"
         },
@@ -79,8 +70,6 @@
             "Product_Family__c": "@DynamoRef",
             "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "MSRP__c": 7200,
-            "Level__c": "Racer",
-            "Category__c": "Mountain",
             "Material__c": "Carbon",
             "Picture_URL__c": "/resource/1563540396000/ProductImages/greensuv.png"
         },
@@ -93,8 +82,6 @@
             "Product_Family__c": "@DynamoRef",
             "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "MSRP__c": 7400,
-            "Level__c": "Racer",
-            "Category__c": "Mountain",
             "Material__c": "Carbon",
             "Picture_URL__c": "/resource/1563540396000/ProductImages/redsedan.png"
         },
@@ -107,8 +94,6 @@
             "Product_Family__c": "@DynamoRef",
             "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "MSRP__c": 7800,
-            "Level__c": "Racer",
-            "Category__c": "Mountain",
             "Material__c": "Carbon",
             "Picture_URL__c": "/resource/1563540396000/ProductImages/redsuv.png"
         },
@@ -121,8 +106,6 @@
             "Product_Family__c": "@ElectraRef",
             "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "MSRP__c": 4000,
-            "Level__c": "Enthusiast",
-            "Category__c": "Mountain",
             "Material__c": "Aluminum",
             "Picture_URL__c": "/resource/1563540396000/ProductImages/silverhatchback.png"
         },
@@ -135,8 +118,6 @@
             "Product_Family__c": "@ElectraRef",
             "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "MSRP__c": 4300,
-            "Level__c": "Enthusiast",
-            "Category__c": "Mountain",
             "Material__c": "Aluminum",
             "Picture_URL__c": "/resource/1563540396000/ProductImages/taupesuv.png"
         },
@@ -149,8 +130,6 @@
             "Product_Family__c": "@ElectraRef",
             "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "MSRP__c": 4600,
-            "Level__c": "Enthusiast",
-            "Category__c": "Mountain",
             "Material__c": "Aluminum",
             "Picture_URL__c": "/resource/1563540396000/ProductImages/whitehatchback.png"
         },
@@ -163,8 +142,6 @@
             "Product_Family__c": "@ElectraRef",
             "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "MSRP__c": 4900,
-            "Level__c": "Enthusiast",
-            "Category__c": "Mountain",
             "Material__c": "Aluminum",
             "Picture_URL__c": "/resource/1563540396000/ProductImages/whitesedan.png"
         },
@@ -177,8 +154,6 @@
             "Product_Family__c": "@VoltRef",
             "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "MSRP__c": 1200,
-            "Level__c": "Beginner",
-            "Category__c": "Commuter",
             "Material__c": "Aluminum",
             "Picture_URL__c": "/resource/1563540396000/ProductImages/whitesedan.png"
         },
@@ -191,8 +166,6 @@
             "Product_Family__c": "@VoltRef",
             "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "MSRP__c": 1400,
-            "Level__c": "Beginner",
-            "Category__c": "Commuter",
             "Material__c": "Aluminum",
             "Picture_URL__c": "/resource/1563540396000/ProductImages/whitesedan.png"
         },
@@ -205,8 +178,6 @@
             "Product_Family__c": "@VoltRef",
             "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "MSRP__c": 1800,
-            "Level__c": "Beginner",
-            "Category__c": "Commuter",
             "Material__c": "Aluminum",
             "Picture_URL__c": "/resource/1563540396000/ProductImages/whitesedan.png"
         },
@@ -219,8 +190,6 @@
             "Product_Family__c": "@VoltRef",
             "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "MSRP__c": 1900,
-            "Level__c": "Beginner",
-            "Category__c": "Commuter",
             "Material__c": "Aluminum",
             "Picture_URL__c": "/resource/1563540396000/ProductImages/whitesedan.png"
         }

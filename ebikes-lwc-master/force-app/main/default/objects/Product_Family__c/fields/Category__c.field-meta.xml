@@ -7,7 +7,6 @@
     <trackTrending>false</trackTrending>
     <type>Picklist</type>
     <valueSet>
-        <restricted>true</restricted>
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
@@ -24,24 +23,6 @@
                 <fullName>SUV</fullName>
                 <default>false</default>
                 <label>SUV</label>
-            </value>
-            <value>
-                <fullName>Commuter</fullName>
-                <default>false</default>
-                <isActive>false</isActive>
-                <label>Commuter</label>
-            </value>
-            <value>
-                <fullName>Hybrid</fullName>
-                <default>false</default>
-                <isActive>false</isActive>
-                <label>Hybrid</label>
-            </value>
-            <value>
-                <fullName>Mountain</fullName>
-                <default>false</default>
-                <isActive>false</isActive>
-                <label>Mountain</label>
             </value>
         </valueSetDefinition>
     </valueSet>

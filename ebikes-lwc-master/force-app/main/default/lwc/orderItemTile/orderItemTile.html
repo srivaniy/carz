@@ -26,16 +26,18 @@
                 formatter="currency"
                 class="price"
             ></lightning-input>
+            <!-- small is changed to quantity -->
             <lightning-input
                 onchange={handleFormChange}
                 value={orderItem.Qty_S__c}
                 data-field-name="Qty_S__c"
-                label="Small"
+                label="Quantity"      
+                
                 type="number"
                 max-length="3"
                 class="quantity"
             ></lightning-input>
-            <lightning-input
+            <!-- <lightning-input
                 onchange={handleFormChange}
                 value={orderItem.Qty_M__c}
                 data-field-name="Qty_M__c"
@@ -52,7 +54,7 @@
                 type="number"
                 max-length="3"
                 class="quantity"
-            ></lightning-input>
+            ></lightning-input> -->
         </div>
         <div class="action-buttons slds-align_absolute-center">
             <lightning-button-icon

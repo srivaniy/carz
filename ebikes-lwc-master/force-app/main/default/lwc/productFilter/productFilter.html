@@ -17,7 +17,7 @@
                 ></lightning-slider>
             </section>
             <section>
-                <h1>Category</h1>
+                <h1>Fuel Type</h1>
                 <template if:true={categories.data}>
                     <template
                         for:each={categories.data.values}
@@ -67,7 +67,7 @@
                 </template>
             </section> -->
             <section>
-                <h1>Level</h1>
+                <h1>Number of Gears</h1>
                 <template if:true={levels.data}>
                     <template for:each={levels.data.values} for:item="level">
                         <lightning-input
